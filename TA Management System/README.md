@@ -1,4 +1,5 @@
 # 學校助教申請管理系統 (TA Management System)
+<img width="2360" height="1317" alt="IMG_0187" src="https://github.com/user-attachments/assets/88613ff9-66e7-4d00-b9b6-cb5613970b93" />
 
 ## 專案簡介
 這是一個使用 PHP 開發的助教申請與後台管理系統。主要提供前端表單供使用者填寫資料，並具備管理員專屬的後台介面，方便進行申請資料的讀取、審核與管理。
