@@ -10,10 +10,10 @@
 * **資料讀取與展示:** 從資料庫動態撈取資料，並於網頁端進行視覺化列表呈現 (`dataRead_show.php`)。
 * **後端邏輯處理:** 負責處理前端傳送的請求，並執行對應的資料庫操作 (`act.php`)。
 
-## 技術棧 (Tech Stack)
-* **Backend:** PHP
-* **Database:** 
-* **Frontend:** HTML
+## 程式語法與開發環境
+* **Backend:** PHP、HTML
+* **開發環境 (Environment):** XAMPP (Apache)
+
 
 ## 開發亮點 (Highlights)
 * 具備完整的前後端資料傳遞與表單驗證邏輯。
