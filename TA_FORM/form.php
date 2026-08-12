@@ -174,7 +174,7 @@
 				function getDataFromGoogleSheets() {
 					
 					// 設定API金鑰的路徑和範圍
-					$url = "https://sheets.googleapis.com/v4/spreadsheets/1vhbZ8AFq4BrVpvYZnORfGe7weVtaC35S549NWWe6xQw/values/工作表1?key=AIzaSyD-SWMfOdT1p7PyANIhTx9AsBdDWn4dI6c";
+					$url = "https://googlesheetAPI KEY";
 					
 					// 初始化 cURL 會話
 					$ch = curl_init($url);
