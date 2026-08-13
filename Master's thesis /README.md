@@ -21,6 +21,7 @@
 
 <img width="552" height="330" alt="圖4 3、引入 Homeostasis 機制（Proposed）之五次重複訓練與測試準確率曲線圖。" src="https://github.com/user-attachments/assets/1e0b6859-e385-40ce-8aff-d1abacf7f897" />
 <img width="552" height="330" alt="圖4 18、引入 Homeostasis 機制與混合剪枝之五次重複訓練與測試準確率變化曲線圖。" src="https://github.com/user-attachments/assets/96fa124e-9ed4-467f-a008-de63567f7dc6" />
+
 準確率折線圖
 
  <img width="834" height="656" alt="IMG_0194" src="https://github.com/user-attachments/assets/2eb14118-6ccb-41c0-9197-58d18d7fd19d" />
